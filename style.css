@@ -1,7 +1,10 @@
 body{
     overflow-y: hidden;
 }
-
+.center{
+    text-align: center;
+    color: darkred;
+}
 .container{
     border: 1px solid black;
     width: 50%;
